@@ -241,4 +241,4 @@ This repository serves as the official landing page for Half-Life 2. The softwar
 **Get the most recent version of Half-Life 2 today!**
 
 ---
-**Last updated:** 2026-09-18 17:27:37 UTC
+**Last updated:** 2026-09-18 20:21:02 UTC
